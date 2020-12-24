@@ -8,9 +8,9 @@ It faces difficulty in detecting Disgust emotion. I am currently working on reso
 
 Link to the colab notebook: https://colab.research.google.com/drive/1FujiF_-i7Jtaz8EWqhhWjxHXSnX5p4SR?usp=sharing
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](testing/one.jpg?raw=true "Title")
+![Alt text](testing/two.jpg?raw=true "Title")
+![Alt text](testing/three.jpg?raw=true "Title")
+![Alt text](testing/four.jpg?raw=true "Title")
+![Alt text](testing/five.jpg?raw=true "Title")
+![Alt text](testing/six.jpg?raw=true "Title")
