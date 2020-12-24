@@ -7,3 +7,10 @@ The model detects 6 emotions pretty accurately: Neutral, Angry, Fear, Surprise, 
 It faces difficulty in detecting Disgust emotion. I am currently working on resolving this problem.
 
 Link to the colab notebook: https://colab.research.google.com/drive/1FujiF_-i7Jtaz8EWqhhWjxHXSnX5p4SR?usp=sharing
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
